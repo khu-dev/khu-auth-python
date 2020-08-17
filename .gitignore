@@ -1,4 +1,6 @@
 *.egg-info
 *.pyc
+.idea
+**/.idea
 src/build
 src/dist

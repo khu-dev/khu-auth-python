@@ -1,5 +1,4 @@
 import sys
-import khuauth
-# from khuauth import auth
+from khuauth.auth import authenticate
 
-print(khuauth.auth.authenticate(sys.argv[1], sys.argv[2]))
+print(authenticate(sys.argv[1], sys.argv[2]))
