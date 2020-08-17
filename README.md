@@ -1,4 +1,5 @@
 # khu-auth-python
+![auth_health](https://github.com/khu-dev/khu-auth-python/workflows/Auth%20Health%20Check/badge.svg)
 
 # Installation
 

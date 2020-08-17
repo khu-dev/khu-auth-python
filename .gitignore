@@ -4,3 +4,4 @@
 **/.idea
 src/build
 src/dist
+env/
